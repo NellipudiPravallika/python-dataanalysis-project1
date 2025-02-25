@@ -13,4 +13,4 @@ SALES-DATA ANALYSIS-PYTHON PROJECT
   5. i also applied legends using patches from matplotlib library
   6.i also applied titles to axis and also applied title to the graphs
   7.graph1:<img src="https://github.com/NellipudiPravallika/python-dataanalysis-project1/blob/master/Figure_4.png">
-  8.graph2:<img src="">
+  8.graph2:<img src="https://github.com/NellipudiPravallika/python-dataanalysis-project1/blob/master/Figure_5.png">
