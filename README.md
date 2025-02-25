@@ -3,7 +3,8 @@ SALES-DATA ANALYSIS-PYTHON PROJECT
 1.PROJECT OVERVIEW:
   In this project i import an excel file to python and i created plots by using matplotlib library
 
-2.DATASET:<a href="https://github.com/NellipudiPravallika/python-dataanalysis-project1/blob/master/telugu-dashboard-blank.xlsx">dataset used</a>
+2.DATASET:
+<a href="https://github.com/NellipudiPravallika/python-dataanalysis-project1/blob/master/telugu-dashboard-blank.xlsx">dataset used</a>
 
 3.PROCESS:
   1.first i imported excel file to python using read_excel command in pandas library
