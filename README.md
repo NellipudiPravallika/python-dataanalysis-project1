@@ -12,5 +12,5 @@ SALES-DATA ANALYSIS-PYTHON PROJECT
   4. in the secong graph i plotted a bar graph using pyplot from matplotlib library
   5. i also applied legends using patches from matplotlib library
   6.i also applied titles to axis and also applied title to the graphs
-  7.graph1:<img src="">
+  7.graph1:<img src="https://github.com/NellipudiPravallika/python-dataanalysis-project1/blob/master/Figure_4.png">
   8.graph2:<img src="">
