@@ -20,6 +20,8 @@ SALES-DATA ANALYSIS-PYTHON PROJECT
   
    5. graph2:<a href="https://github.com/NellipudiPravallika/python-dataanalysis-project1/blob/master/Figure_5.png">graph2</a>
 
+   6. graph3:<a href="https://github.com/NellipudiPravallika/python-dataanalysis-project1/blob/master/Figure_3.png">graph3</a>
+
 4.GRAPHS ANALYSIS:
 
    1. first graph is plotted between "country" and "amount"
@@ -37,6 +39,8 @@ SALES-DATA ANALYSIS-PYTHON PROJECT
    7. graph1:<img src="https://github.com/NellipudiPravallika/python-dataanalysis-project1/blob/master/Figure_4.png">
   
    8. graph2:<img src="https://github.com/NellipudiPravallika/python-dataanalysis-project1/blob/master/Figure_5.png">
+
+   9. graph3:<img src="https://github.com/NellipudiPravallika/python-dataanalysis-project1/blob/master/Figure_3.png">
 
 5.SKILLS USED:
 
