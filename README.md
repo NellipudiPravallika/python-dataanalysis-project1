@@ -38,4 +38,6 @@ SALES-DATA ANALYSIS-PYTHON PROJECT
   
    8. graph2:<img src="https://github.com/NellipudiPravallika/python-dataanalysis-project1/blob/master/Figure_5.png">
 
+5.SKILLS USED:
 
+  python(matplotlib library),excel
