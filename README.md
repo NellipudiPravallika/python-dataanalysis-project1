@@ -3,7 +3,7 @@ SALES-DATA ANALYSIS-PYTHON PROJECT
 1.PROJECT OVERVIEW:
   In this project i import an excel file to python and i created plots by using matplotlib library
 
-2.DATASET:<a href="">dataset used</a>
+2.DATASET:<a href="https://github.com/NellipudiPravallika/python-dataanalysis-project1/blob/master/telugu-dashboard-blank.xlsx">dataset used</a>
 
 3.GRAPHS ANALYSIS:
   1.first graph is plotted between "country" and "amount"
